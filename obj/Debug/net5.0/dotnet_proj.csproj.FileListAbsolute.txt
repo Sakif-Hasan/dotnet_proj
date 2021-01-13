@@ -1,0 +1,16 @@
+/home/sakifhasan/Documents/dotnet_proj/dotnet_proj/bin/Debug/net5.0/dotnet_proj
+/home/sakifhasan/Documents/dotnet_proj/dotnet_proj/bin/Debug/net5.0/dotnet_proj.deps.json
+/home/sakifhasan/Documents/dotnet_proj/dotnet_proj/bin/Debug/net5.0/dotnet_proj.runtimeconfig.json
+/home/sakifhasan/Documents/dotnet_proj/dotnet_proj/bin/Debug/net5.0/dotnet_proj.runtimeconfig.dev.json
+/home/sakifhasan/Documents/dotnet_proj/dotnet_proj/bin/Debug/net5.0/dotnet_proj.dll
+/home/sakifhasan/Documents/dotnet_proj/dotnet_proj/bin/Debug/net5.0/ref/dotnet_proj.dll
+/home/sakifhasan/Documents/dotnet_proj/dotnet_proj/bin/Debug/net5.0/dotnet_proj.pdb
+/home/sakifhasan/Documents/dotnet_proj/dotnet_proj/obj/Debug/net5.0/dotnet_proj.csprojAssemblyReference.cache
+/home/sakifhasan/Documents/dotnet_proj/dotnet_proj/obj/Debug/net5.0/dotnet_proj.GeneratedMSBuildEditorConfig.editorconfig
+/home/sakifhasan/Documents/dotnet_proj/dotnet_proj/obj/Debug/net5.0/dotnet_proj.AssemblyInfoInputs.cache
+/home/sakifhasan/Documents/dotnet_proj/dotnet_proj/obj/Debug/net5.0/dotnet_proj.AssemblyInfo.cs
+/home/sakifhasan/Documents/dotnet_proj/dotnet_proj/obj/Debug/net5.0/dotnet_proj.csproj.CoreCompileInputs.cache
+/home/sakifhasan/Documents/dotnet_proj/dotnet_proj/obj/Debug/net5.0/dotnet_proj.dll
+/home/sakifhasan/Documents/dotnet_proj/dotnet_proj/obj/Debug/net5.0/ref/dotnet_proj.dll
+/home/sakifhasan/Documents/dotnet_proj/dotnet_proj/obj/Debug/net5.0/dotnet_proj.pdb
+/home/sakifhasan/Documents/dotnet_proj/dotnet_proj/obj/Debug/net5.0/dotnet_proj.genruntimeconfig.cache
