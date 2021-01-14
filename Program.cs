@@ -6,11 +6,9 @@ namespace dotnet_proj
     {
         static void Main(string[] args)
         {
-            int a = 90;
-            int b = 40;
+            algo al = new algo();
 
-            Console.WriteLine("Hello World!");
-            Console.WriteLine(a+b);
+            al.fizzbuzz();
         }
     }
 }
